@@ -3,12 +3,24 @@
 📍 Portland, OR • 📧 [developer@azzam.dev](mailto:developer@azzam.dev) • 📱 (503) 847-9898  
 🔗 [LinkedIn](https://linkedin.com/in/azzam-muthanna) | 🐙 [GitHub](https://github.com/azzamhub) | 🌐 [azzam.dev](https://azzam.dev)  
 
----
+
+
+<br>
+<a href="https://github.com/azzamhub">
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+  </p>
+</a>
+  <br>
+
+
+
+
 
 ## 🔹 About Me  
 💻 Software Developer with **full-stack and cloud expertise**. Experienced in **Flutter, React, Next.js, and Google Cloud**, with strong knowledge of **AI/ML pipelines** and microservices. Passionate about building scalable, efficient, and user-friendly applications.  
 
----
+<br>
 
 ## 💼 Experience  
 
@@ -27,7 +39,9 @@
 🔧 Supported semiconductor manufacturing in a clean-room environment.  
 - Preventive maintenance, troubleshooting, and process improvement.  
 
----
+
+<br>
+
 
 ## 🚀 Projects  
 
@@ -48,7 +62,9 @@
 - Built **RAG pipeline** with FAISS for semantic housing data search.  
 - Increased engagement by **30%** with conversational property recommendations.  
 
----
+<br>
+
+
 
 ## 🎓 Education  
 
@@ -56,13 +72,17 @@
 - 🎓 *B.S., Computer Science* — Oregon State University *(2022–2023)*  
 - 🎓 *A.A. Oregon Transfer* — Portland Community College *(2018–2020)*  
 
----
+<br>
+
+
 
 ## 📜 Certifications  
 - ☁️ Google Cloud Engineer Path – Google Cloud Skills Boost  
 - 🤖 Machine Learning Specialization – Coursera (Andrew Ng / Stanford)  
 
----
+<br>
+
+
 
 ## 🛠️ Skills  
 
@@ -73,7 +93,9 @@
 **Cloud:** Google Cloud, AWS, Azure  
 **Other:** Git, CI/CD, REST APIs, Microservices, RAG pipelines, MCP servers  
 
----
+<br>
+
+
 ## 🛠️ Skills  
 
 **Languages**  
@@ -110,6 +132,8 @@
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
+<br>
+
 
 **Tools & Architecture**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI/CD-0A0A0A?style=flat&logo=githubactions&logoColor=white)
@@ -118,5 +142,7 @@
 ![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-4CAF50?style=flat&logo=databricks&logoColor=white)
 ![MCP Servers](https://img.shields.io/badge/MCP_Servers-1E88E5?style=flat&logo=kubernetes&logoColor=white)
 
-----
+<br>
+
+
 ⭐️ *Always building, always learning. Open to collaborations and new opportunities.*  
